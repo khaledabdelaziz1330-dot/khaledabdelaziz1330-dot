@@ -19,6 +19,10 @@ Previously: AI Automation Engineer at **Hostzera** (web hosting) and **OMB** (ma
 
 `Claude` `OpenAI` `AWS Bedrock` `Gemini` `RAG` `AI agents` `n8n` `REST APIs & webhooks` `Clay` `HubSpot` `WhatsApp Business API` `Docker` · Python, JavaScript & SQL (working knowledge)
 
+### Languages
+
+Arabic (native) · English (fluent)
+
 ### Contact
 
 [LinkedIn](https://www.linkedin.com/in/khaledabdelaziz-ai) · [Email](mailto:khaledabdelaziz1330@gmail.com)
