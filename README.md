@@ -17,7 +17,7 @@ Previously: AI Automation Engineer at **Hostzera** (web hosting) and **OMB** (ma
 
 ### Stack
 
-`Claude` `OpenAI` `AWS Bedrock` `Gemini` `RAG` `AI agents` `n8n` `REST APIs & webhooks` `Clay` `HubSpot` `WhatsApp Business API` `Docker` `Python` `JavaScript` `SQL`
+`Claude` `OpenAI` `AWS Bedrock` `Gemini` `RAG` `AI agents` `n8n` `REST APIs & webhooks` `Clay` `HubSpot` `WhatsApp Business API` `Docker` · Python, JavaScript & SQL (working knowledge)
 
 ### Contact
 
