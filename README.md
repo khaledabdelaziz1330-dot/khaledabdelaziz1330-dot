@@ -15,9 +15,13 @@ Previously: AI Automation Engineer at **Hostzera** (web hosting) and **OMB** (ma
 
 **[Khaled-AI-Automation-Portfolio](https://github.com/khaledabdelaziz1330-dot/Khaled-AI-Automation-Portfolio)** — ten documented AI systems with architecture, performance data and sanitized n8n exports, including a clinic receptionist handling 90%+ of patient inquiries and a retrieval-grounded assistant with a measured ~0.5% hallucination rate.
 
-### Stack
+### Skills
 
-`Claude` `OpenAI` `AWS Bedrock` `Gemini` `RAG` `AI agents` `n8n` `REST APIs & webhooks` `Clay` `HubSpot` `WhatsApp Business API` `Docker` · Python, JavaScript & SQL (working knowledge)
+- **AI & LLMs** — LLM applications · AI agents · RAG · prompt engineering · LLM evaluation · Claude, GPT & Gemini APIs · AWS Bedrock
+- **Automation** — workflow orchestration (n8n, Make, Zapier) · REST APIs & webhooks · GoHighLevel · WhatsApp Business API
+- **Data & CRM** — Clay · LinkedIn Sales Navigator · HubSpot · Airtable · Zoho · data enrichment & lead scoring
+- **Engineering** — Python, JavaScript & SQL (working knowledge) · Git/GitHub · Docker · VPS deployment · Claude Code/Cursor · automated testing & CI
+- **Governance** — monitoring & logging · consent and audit trails · human-in-the-loop review · data privacy (Saudi PDPL, GDPR)
 
 ### Languages
 
