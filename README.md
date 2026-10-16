@@ -13,7 +13,7 @@ Previously: AI Automation Engineer at **Hostzera** (web hosting) and **OMB** (ma
 
 ### Portfolio
 
-**[Khaled-AI-Automation-Portfolio](https://github.com/khaledabdelaziz1330-dot/Khaled-AI-Automation-Portfolio)** — ten documented AI systems with architecture, performance data and sanitized n8n exports, including a healthcare AI receptionist that resolves 90%+ of patient inquiries without staff and a RAG assistant with a measured ~0.5% hallucination rate.
+**[Khaled-AI-Automation-Portfolio](https://github.com/khaledabdelaziz1330-dot/Khaled-AI-Automation-Portfolio)** — documented AI systems with architecture, performance data and sanitized n8n exports, including a healthcare AI receptionist that resolves 90%+ of patient inquiries without staff and a RAG assistant with a measured ~0.5% hallucination rate.
 
 ### Skills
 
